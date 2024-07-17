@@ -83,12 +83,16 @@
   @apply mt-5 text-5xl font-extrabold leading-[1.15] text-black sm:text-6xl text-center;
 }
 
+.logo_text {
+  @apply mt-5 text-xl font-extrabold leading-[1.15] text-black sm:text-6xl text-center;
+}
+
 .orange_gradient {
   @apply bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500 bg-clip-text text-transparent;
 }
 
 .blue_gradient {
-  @apply bg-gradient-to-r from-blue-800 via-blue-400 to-blue-100 bg-clip-text text-transparent;
+  @apply bg-gradient-to-r from-blue-300 via-blue-950 to-blue-300 bg-clip-text text-transparent;
 }
 
 .desc {
