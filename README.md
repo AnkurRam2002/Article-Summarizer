@@ -1,5 +1,5 @@
 <h1 align='center'>Article Summarizer</h1>
-This is an AI-powered article summarizer app built using React, Redux, and Tailwind CSS. It leverages advanced natural language processing to provide concise summaries of long articles.
+aBridge is an AI-powered article summarizer app built using React, Redux, and Tailwind CSS. It leverages advanced natural language processing to provide concise summaries of long articles.
 
 <h3>Features</h3>
 
